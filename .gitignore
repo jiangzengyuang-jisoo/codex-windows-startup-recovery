@@ -1,0 +1,5 @@
+*.lnk
+*.ico
+last-run.json
+tests/startup-launcher-checks.json
+*.zip
